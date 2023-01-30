@@ -7,3 +7,6 @@
 🌱 I’m currently pursuing my Master's degree at Bilkent University, Ankara, Turkey.
 
 📫 You can reach me via: atakan.topcu@bilkent.edu.tr
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40AtakanTopcu)](https://twitter.com/Atakan84666839)
+
