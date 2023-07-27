@@ -3,7 +3,7 @@
 
 
 
-👀 Currently, I’m interested in the unsupervised deep learning methods for variety of clinical MRI applications along with both hardware and software realization of Magnetic Particle Imaging (MPI).
+👀 Currently, I’m interested in the unsupervised deep learning methods for variety of clinical MRI applications along with both hardware and software realization of Magnetic Particle Imaging (MPI)/Magnetic Particle Spectroscopy (MPS).
 
 :monocle_face: If I got the chance, I would also like to work with other imaging modalities such as Fourier ptychography or cryo-EM.
 
