@@ -3,13 +3,13 @@
 
 
 
-👀 Currently, I’m interested in the unsupervised deep learning methods for variety of clinical diffusion MRI (dMRI) applications along with both hardware and software realization of Magnetic Particle Imaging (MPI)/Magnetic Particle Spectroscopy (MPS).
+👀 My research blends Generative AI, Representation Learning, Computational Imaging, and Inverse Problems, with a strong focus on Magnetic Resonance Imaging (MRI). 
 
 :monocle_face: If I got the chance, I would also like to work with other imaging modalities such as Fourier ptychography or cryo-EM.
 
-🌱 I’m currently pursuing my Master's degree at Bilkent University, Ankara, Turkey.
+🌱 I’m currently EECS Ph.D. Student at UC Berkeley.
 
-📫 You can reach me via: atakan.topcu@bilkent.edu.tr
+📫 You can reach me via: atakan_topcu@berkeley.edu
 
 ## Connect with me:
 
